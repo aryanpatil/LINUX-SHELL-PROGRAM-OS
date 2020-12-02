@@ -4,8 +4,8 @@ C program which is used to create a customised linux shell/terminal using the co
 ----------------------------------------------------------------------
 
 To run the terminal, enter the following commands:
-  gcc myshell.c
-  ./a.out
+   gcc myshell.c
+   ./a.out
 
 ----------------------------------------------------------------------
 
